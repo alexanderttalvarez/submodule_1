@@ -1,2 +1,3 @@
 This is submodule number 1
 Adding new line to submodule 1
+Adding third line to submodule 1
